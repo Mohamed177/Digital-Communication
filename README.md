@@ -102,7 +102,7 @@ Frequency-shift keying (FSK) is a frequency modulation scheme in which digital i
     
     With Raised Cosine Filter:
     
-    ![with RCF](/FSK/FSKrc_befNoise.JPG) 
+    ![with RCF](/FSK/FSKrc_befNoise.jpg) 
     
 * #### Scatter Diagrams After Noise
 	
